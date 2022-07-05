@@ -1,8 +1,0 @@
-RenderMethod: vulkan
-Vendor: 0x8086
-Device: 0x4e61
-API: 1.2.154
-Driver: 0.402.791
-DeviceType: integrated
-DeviceName: Intel(R) HD Graphics Gen11
-Denylisted: no
