@@ -1,3 +1,2 @@
 # Inferno
-A online PPTX editor made using PptxGenJS
-It just started and is still in the making.
+Part of Student Ignite! Project that will be an all in one doccument reader and editor (PDF, PPTX, DOCX) with OpenOffice.
